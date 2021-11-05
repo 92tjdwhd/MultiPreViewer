@@ -1,4 +1,4 @@
-package com.doye.multipreviewer;
+package com.doye.MultiPreViewerDemo;
 
 import org.junit.Test;
 
